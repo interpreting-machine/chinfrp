@@ -1,1 +1,1 @@
-### Interpreting Machine (chinfp)
+### Interpreting Machine (chinfrp)
